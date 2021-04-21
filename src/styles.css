@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: cursive;
+  text-align: center;
+  background: #f87171;
+}
+
+::placeholder {
+  text-align: center;
+  font-family: cursive;
+  color: 9ca3af;
+}
+
+
