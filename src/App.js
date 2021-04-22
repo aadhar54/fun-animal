@@ -23,6 +23,9 @@ export default function App() {
 
   function onClickHandler(emojie) {
     setMeaning(animalsList[emojie]+" "+emojie);
+    Array.from(document.querySelectorAll("input")).forEach(
+      input => (input.value = "")
+    );
   }
 
   return (
