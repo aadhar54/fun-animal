@@ -10,4 +10,4 @@ https://0nwco.csb.app/
 
 And I know this images looks a bit streched but remember man is also an animal ...😋
 
-<img src ="./images/animal-fun.png" height="600px" width="600px">
+<img src ="./images/animal-fun.png" height="600px" width="1000px">
